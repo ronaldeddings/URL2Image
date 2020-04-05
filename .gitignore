@@ -25,13 +25,14 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*headless-chrom*
 MANIFEST
 
 # Serverless directories
 .serverless
 node_modules
 package-lock.json
-
+package.json
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
